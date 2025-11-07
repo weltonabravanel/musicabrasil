@@ -87,7 +87,7 @@ export default function Home() {
                   </div>
 
                   <p className="text-gray-600 mb-8 text-center max-w-lg">
-                    Descubra o melhor da música brasileira e internacional escute antes do lançamento
+                    Escute a previa da sua música antes do lançamento
                   </p>
 
                   <div className="relative w-full max-w-xl">
