@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-    "homepage": "/app",
+    "homepage": "https://weltonabravanel.github.io/musicabrasil/",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
